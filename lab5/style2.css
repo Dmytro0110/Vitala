@@ -1,0 +1,46 @@
+.bgg{
+    background-color: bisque;
+}
+.verh{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+.div01{
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.div1{
+    text-align: center;
+    font-size: x-large;
+}
+.div2{
+    text-align: justify;
+    font-size: large;
+}
+.gol{
+    text-align: right;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+.back{
+    margin: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 2px;
+}
+.foto{
+    margin: 10px;
+    height: 80px;
+    width: 120px;
+    border-radius: 3px;
+}
+.div2-2{
+    text-align: justify;
+    font-size: large;
+    border-bottom: solid 2px rgb(70, 9, 9);
+}
+.div_img{
+    border-bottom: solid 2px rgb(70, 9, 9);
+}

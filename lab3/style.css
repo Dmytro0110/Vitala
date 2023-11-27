@@ -1,0 +1,65 @@
+.bod{
+    background-color: rgb(216, 216, 216);
+}
+.verh{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.name1{
+    margin: 10px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.texxt{
+    text-align: justify;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.name2{
+    margin:10px;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pid{
+    text-align: right;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.soc{
+    margin: 10px;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.soc2{
+    text-align: left;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+.img_social{
+    margin: 10px;
+    height: 70px;
+    width: 70px;
+    border-radius: 3px;
+}
+.ost{
+    margin: 10px;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.div3{
+    font-size: large;
+    text-align: left;
+}
+.poch{
+    margin: 10px;
+    font-size: medium;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+}

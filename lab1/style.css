@@ -1,0 +1,23 @@
+.bod{
+    background-color: rgb(216, 216, 216);
+}
+.name1{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.texxt{
+    text-align: justify;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.name2{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pid{
+    text-align: right;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}

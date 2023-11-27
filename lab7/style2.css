@@ -1,0 +1,31 @@
+.bg{
+   background-color: rgb(149, 149, 182);
+}
+.shap{
+    margin: 20px;
+    background-color: rgb(255, 196, 0);
+    border: solid 3px rgb(255, 166, 0);
+    border-radius: 5px;
+}
+.text_shap{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+.abz{
+    margin: 15px;
+    text-align: justify;
+}
+.abz1{
+    color: rgb(14, 80, 14);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+.abz2{
+    color: rgb(32, 14, 80);
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}

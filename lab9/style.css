@@ -1,0 +1,93 @@
+.bod{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.verh{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.navbar-brand {
+    font-size:x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav-link{
+    font-size: large;
+    font-family:"Franklin"
+} 
+.name1{
+    margin-top: 70px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.texxt{
+    text-align: justify;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.name2{
+    margin:10px;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pid{
+    background-color: rgb(44, 42, 42);
+    border-top: solid 3px black;
+    text-align: right;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text_fut{
+    margin: 5px;
+    color: white;
+}
+.soc{
+    margin: 10px;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.soc2{
+    text-align: left;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+.img_social{
+    margin: 10px;
+    height: 70px;
+    width: 70px;
+    border-radius: 3px;
+}
+.div_text{
+    display: flex;
+    align-items: center;
+}
+.ost{
+    margin: 10px;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.div3{
+    font-size: large;
+    text-align: left;
+}
+.poch{
+    margin: 10px;
+    font-size: medium;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tabb{
+    width: 30%;
+    margin-left: 200px;
+}
+
+.bbb{
+    margin-left: 20px;
+}

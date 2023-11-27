@@ -1,0 +1,22 @@
+.bg{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.shap{
+    margin: 20px;
+    background-color: rgb(255, 196, 0);
+    border: solid 3px rgb(255, 166, 0);
+    border-radius: 5px;
+}
+.text_shap{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+.textt{
+    margin:10px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 27);
+}
